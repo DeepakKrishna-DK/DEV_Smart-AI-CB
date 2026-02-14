@@ -1,3 +1,3 @@
 See [DEV_CORE](https://github.com/DeepakKrishna-DK/DEV_Smart-AI-CB/tree/main/DEV_CORE) <br>
-Its Just a Start,Future is waiting for this...
-![DEV Logo](assets/dev-logo.png)
+Its Just a Start,Future is waiting for this... <br>
+![DEV Logo](DEV_CORE/DEV_CORE.png)
