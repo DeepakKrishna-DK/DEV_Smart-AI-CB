@@ -1,0 +1,17 @@
+# Ignore environment files
+*.env
+
+# Ignore large vector database files
+DEV CORE/Advanced_RAG_Chatbot/vector_db/unified/index.faiss
+DEV CORE/Advanced_RAG_Chatbot/vector_db/unified/index.pkl
+
+# Ignore cache and logs
+DEV CORE/Advanced_RAG_Chatbot/cache/
+DEV CORE/Advanced_RAG_Chatbot/logs/
+
+# Ignore data and pdfs
+DEV CORE/Advanced_RAG_Chatbot/data/
+DEV CORE/Advanced_RAG_Chatbot/pdfs/
+
+# Node modules
+node_modules/
