@@ -1,0 +1,19 @@
+# Auto-detect text files and perform LF normalization
+* text=auto
+
+# Explicitly declare text files you want to always be normalized
+*.js text
+*.ts text
+*.tsx text
+*.json text
+*.md text
+*.css text
+*.html text
+*.py text
+*.yml text
+*.yaml text
+*.sh text eol=lf
+*.bat text eol=crlf
+*.ps1 text eol=crlf
+*.cmd text eol=crlf
+*.env text
