@@ -1,1 +1,2 @@
-See DEV_CORE(DEV_CORE)
+See [DEV_CORE](https://github.com/DeepakKrishna-DK/DEV_Smart-AI-CB/tree/main/DEV_CORE)
+Its Just a Start,Future is waiting for this...
